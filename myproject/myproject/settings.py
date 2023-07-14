@@ -86,7 +86,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'finalgitprac',
         'USER': 'root',
-        'PASSWORD': 'MANIkanta123!@#',
+        'PASSWORD': 'mahikiran@1',
         'HOST': 'localhost',   # Or an IP Address that your DB is hosted on
         'PORT': '3306',
     }
